@@ -19,6 +19,7 @@ class solution:
             cur.next = temp.next
             temp.next = pre.next
             pre.next = temp
+            j = j+1
         return res.next
 
         
