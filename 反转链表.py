@@ -14,5 +14,5 @@ class Solution:
             current = temp
         return prev
 
-    
+
 
